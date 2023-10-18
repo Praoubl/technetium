@@ -1,0 +1,110 @@
+tech:
+  applied energistics 2
+  create
+  create: crafts and additions
+  create: extended cogwheels
+  create: steam 'n' rails
+  modern industrialization
+
+magic:
+  amarite
+  trinkets
+
+worldgen:
+  ad astra
+  better end
+  better nether
+  choicetheorem's overhauled village
+  more geodes
+  tectonic
+  terralith
+  the bumblezone
+
+decoration:
+  additional banners
+  anvil heads
+  banner bedsheets
+  bits and chisels
+  blahaj
+  chipped
+  double doors
+  infinite banner patterns
+  light emitting diode
+  more banner features
+  nyf's banner patterns
+  ochetgenyo
+  rechiseled
+  stoneworks
+  twigs
+
+customization:
+  3d skin layers
+  create: origins
+  ears
+  mob origins
+  more cosmetics
+  origin furs
+  origins
+  origins++
+  origins: classes
+  originstweaks
+  pehkui
+  simple fog control
+
+additions:
+  additional additions
+  friends&foes
+  more axolotl variants mod
+  more lapis lazuli
+  more mob variants
+  more music discs
+
+qol:
+  fallingtree
+  jade
+  jade addons
+  journeymap
+  just enough items
+  macos input fixes
+  mod menu
+  nature's compass
+  orb of origin plus
+
+performance:
+  clumps
+  enhanced block entities
+  fastload
+  ferritecore
+  indium (1.0.18)
+  krypton
+  lazydfu
+  memory leak fix
+  more culling
+  sodium (0.4.10)
+
+dependancies:
+  athena
+  azurelib
+  bclib
+  bookshelf
+  botarium
+  cardinal components api
+  cloth config api
+  collective
+  fabric api (0.88.1)
+  forge config api port
+  fusion (connected textures)
+  geckolib
+  midnightlib
+  moonlight lib
+  more axolotl variants api
+  puzzles lib
+  resourceful config
+  resourceful lib
+  supermartijn642's config lib
+  supermartijn642's core lib
+  oωo (owo-lib)
+
+server utilities:
+  lootr
+  no chat reports
