@@ -1,8 +1,10 @@
 tech:
   applied energistics 2
+  cc: tweaked
   create
   create: crafts and additions
   create: extended cogwheels
+  create: new age
   create: steam 'n' rails
   modern industrialization
 
@@ -60,13 +62,16 @@ additions:
   more music discs
 
 qol:
+  crawl
   fallingtree
+  item swapper
   jade
   jade addons
   journeymap
   just enough items
   macos input fixes
   mod menu
+  mouse wheelie
   nature's compass
   orb of origin plus
 
