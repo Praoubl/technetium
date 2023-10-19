@@ -92,6 +92,7 @@ performance:
   lazydfu
   memory leak fix
   more culling
+  servercore
   sodium (0.4.10)
 
 dependancies:
