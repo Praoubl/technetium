@@ -7,9 +7,11 @@ tech:
   create: new age
   create: steam 'n' rails
   modern industrialization
+  wired redstone
 
 magic:
   amarite
+  runic enchanting
   trinkets
 
 worldgen:
@@ -63,17 +65,22 @@ additions:
 
 qol:
   crawl
+  elytra slot
   fallingtree
+  grappling hook mod: restitched
+  gravestones
   item swapper
   jade
   jade addons
-  journeymap
   just enough items
   macos input fixes
   mod menu
   mouse wheelie
   nature's compass
+  netherportalfix
   orb of origin plus
+  xaero's minimap
+  xaero's world map
 
 performance:
   clumps
@@ -97,6 +104,7 @@ dependancies:
   cloth config api
   collective
   fabric api (0.88.1)
+  fabric language kotlin
   forge config api port
   fusion (connected textures)
   geckolib
@@ -106,10 +114,14 @@ dependancies:
   puzzles lib
   resourceful config
   resourceful lib
+  searchables
   supermartijn642's config lib
   supermartijn642's core lib
   oωo (owo-lib)
 
 server utilities:
+  create support for open parties and claims
   lootr
   no chat reports
+  open parties and claims
+  time control
