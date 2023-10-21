@@ -38,11 +38,13 @@ decoration:
   nyf's banner patterns
   ochetgenyo
   rechiseled
+  rechiseled: create
   stoneworks
   twigs
 
 customization:
   3d skin layers
+  create mod trims
   create: origins
   ears
   mob origins
@@ -116,6 +118,7 @@ dependancies:
   resourceful config
   resourceful lib
   searchables
+  simple trims
   supermartijn642's config lib
   supermartijn642's core lib
   oωo (owo-lib)
