@@ -112,7 +112,7 @@ dependancies:
   fabric language kotlin (1.10.10)
   forge config api port
   fusion (connected textures)
-  geckolib
+  geckolib (4.2.3)
   midnightlib
   moonlight lib
   more axolotl variants api
