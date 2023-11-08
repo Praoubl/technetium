@@ -109,7 +109,7 @@ dependancies:
   cloth config api
   collective
   fabric api (0.88.1)
-  fabric language kotlin
+  fabric language kotlin (1.10.10)
   forge config api port
   fusion (connected textures)
   geckolib
