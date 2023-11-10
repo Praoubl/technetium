@@ -1,133 +1,133 @@
 tech:
-  applied energistics 2
-  cc: tweaked
-  create
-  create: crafts and additions
-  create: extended cogwheels
-  create: new age
-  create: steam 'n' rails
-  extended drawers
-  modern industrialization
-  wired redstone
+  - applied energistics 2
+  - cc: tweaked
+  - create
+  - create: crafts and additions
+  - create: extended cogwheels
+  - create: new age
+  - create: steam 'n' rails
+  - extended drawers
+  - modern industrialization
+  - wired redstone
 
 magic:
-  amarite
-  runic enchanting
-  trinkets
+  - amarite
+  - runic enchanting
+  - trinkets
 
 worldgen:
-  ad astra
-  better end
-  better nether
-  choicetheorem's overhauled village
-  more geodes
-  tectonic
-  terralith
-  the bumblezone
+  - ad astra
+  - better end
+  - better nether
+  - choicetheorem's overhauled village
+  - more geodes
+  - tectonic
+  - terralith
+  - the bumblezone
 
 decoration:
-  additional banners
-  anvil heads
-  banner bedsheets
-  bits and chisels
-  blahaj
-  chipped
-  double doors
-  infinite banner patterns
-  light emitting diode
-  more banner features
-  nyf's banner patterns
-  ochetgenyo
-  rechiseled
-  rechiseled: create
-  stoneworks
-  twigs
+  - additional banners
+  - anvil heads
+  - banner bedsheets
+  - bits and chisels
+  - blahaj
+  - chipped
+  - double doors
+  - infinite banner patterns
+  - light emitting diode
+  - more banner features
+  - nyf's banner patterns
+  - ochetgenyo
+  - rechiseled
+  - rechiseled: create
+  - stoneworks
+  - twigs
 
 customization:
-  3d skin layers
-  create mod trims
-  create: origins
-  ears
-  mob origins
-  more cosmetics
-  origin furs
-  origins
-  origins++
-  origins: classes
-  originstweaks
-  pehkui
-  simple fog control
+  - 3d skin layers
+  - create mod trims
+  - create: origins
+  - ears
+  - mob origins
+  - more cosmetics
+  - origin furs
+  - origins
+  - origins++
+  - origins: classes
+  - originstweaks
+  - pehkui
+  - simple fog control
 
 additions:
-  additional additions
-  friends&foes
-  more axolotl variants mod
-  more lapis lazuli
-  more mob variants
-  more music discs
+  - additional additions
+  - friends&foes
+  - more axolotl variants mod
+  - more lapis lazuli
+  - more mob variants
+  - more music discs
 
 qol:
-  crawl
-  elytra slot
-  fallingtree
-  grappling hook mod: restitched
-  gravestones
-  item swapper
-  jade
-  jade addons
-  just enough items
-  macos input fixes
-  mod menu
-  mouse wheelie
-  nature's compass
-  netherportalfix
-  orb of origin plus
-  polymorph
-  xaero's minimap
-  xaero's world map
+  - crawl
+  - elytra slot
+  - fallingtree
+  - grappling hook mod: restitched
+  - gravestones
+  - item swapper
+  - jade
+  - jade addons
+  - just enough items
+  - macos input fixes
+  - mod menu
+  - mouse wheelie
+  - nature's compass
+  - netherportalfix
+  - orb of origin plus
+  - polymorph
+  - xaero's minimap
+  - xaero's world map
 
 performance:
-  clumps
-  enhanced block entities
-  fastload
-  ferritecore
-  indium (1.0.18)
-  krypton
-  lazydfu
-  memory leak fix
-  more culling
-  servercore
-  sodium (0.4.10)
+  - clumps
+  - enhanced block entities
+  - fastload
+  - ferritecore
+  - indium (1.0.18)
+  - krypton
+  - lazydfu
+  - memory leak fix
+  - more culling
+  - servercore
+  - sodium (0.4.10)
 
 dependancies:
-  athena
-  azurelib
-  bclib
-  bookshelf
-  botarium
-  cardinal components api
-  cloth config api
-  collective
-  fabric api (0.88.1)
-  fabric language kotlin (1.10.10)
-  forge config api port
-  fusion (connected textures)
-  geckolib (4.2.3)
-  midnightlib
-  moonlight lib
-  more axolotl variants api
-  puzzles lib
-  resourceful config
-  resourceful lib
-  searchables
-  simple trims
-  supermartijn642's config lib
-  supermartijn642's core lib
-  oωo (owo-lib)
+  - athena
+  - azurelib
+  - bclib
+  - bookshelf
+  - botarium
+  - cardinal components api
+  - cloth config api
+  - collective
+  - fabric api (0.88.1)
+  - fabric language kotlin (1.10.10)
+  - forge config api port
+  - fusion (connected textures)
+  - geckolib (4.2.3)
+  - midnightlib
+  - moonlight lib
+  - more axolotl variants api
+  - puzzles lib
+  - resourceful config
+  - resourceful lib
+  - searchables
+  - simple trims
+  - supermartijn642's config lib
+  - supermartijn642's core lib
+  - oωo (owo-lib)
 
 server utilities:
-  create support for open parties and claims
-  lootr
-  no chat reports
-  open parties and claims
-  time control
+  - create support for open parties and claims
+  - lootr
+  - no chat reports
+  - open parties and claims
+  - time control
