@@ -1,6 +1,7 @@
 tech:
   - applied energistics 2
   - cc: tweaked
+  - cc:c bridge
   - create
   - create: crafts and additions
   - create: extended cogwheels
@@ -8,6 +9,7 @@ tech:
   - create: steam 'n' rails
   - extended drawers
   - modern industrialization
+  - plethora peripherals
   - wired redstone
 
 magic:
@@ -20,7 +22,10 @@ worldgen:
   - better end
   - better nether
   - choicetheorem's overhauled village
+  - ctov - friends and foes compat
+  - minerally
   - more geodes
+  - more fossils
   - tectonic
   - terralith
   - the bumblezone
@@ -28,12 +33,17 @@ worldgen:
 decoration:
   - additional banners
   - anvil heads
+  - archaeology banners
   - banner bedsheets
   - bits and chisels
   - blahaj
+  - bushier flowers
   - chipped
   - double doors
+  - dramatic doors
+  - hal's misc mod
   - infinite banner patterns
+  - lanterns belong on walls
   - light emitting diode
   - more banner features
   - nyf's banner patterns
@@ -70,8 +80,10 @@ qol:
   - crawl
   - elytra slot
   - fallingtree
+  - forgotten graves
   - grappling hook mod: restitched
   - gravestones
+  - here be no dragons!
   - item swapper
   - jade
   - jade addons
@@ -83,6 +95,8 @@ qol:
   - netherportalfix
   - orb of origin plus
   - polymorph
+  - sherd duplication
+  - trade cycling
   - xaero's minimap
   - xaero's world map
 
@@ -121,6 +135,7 @@ dependancies:
   - resourceful lib
   - searchables
   - simple trims
+  - statement (4.2.6)
   - supermartijn642's config lib
   - supermartijn642's core lib
   - oωo (owo-lib)
@@ -131,3 +146,4 @@ server utilities:
   - no chat reports
   - open parties and claims
   - time control
+  - timeoutout
