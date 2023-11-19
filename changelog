@@ -24,16 +24,16 @@ planned:
 
 1.2.1:
   removed: 
-    create
+    create [replaced]
 
   added:
-    azalea
+    azalea [wood type]
     create fabric sodium fix
-    fast anim
-    flynt
-    modernfix
+    fast anim [optimization]
+    flynt [flint blocks]
+    modernfix [optimization, pack now can run with much less memory]
     more chests variants (mcv)
     more crafting tables (mct)
-    ronco record vault
-    treeplacer
-    treeplacer - terralith addon
+    ronco record vault [store discs in chiseled bookshelves, works with modded discs]
+    treeplacer [dependancy]
+    treeplacer - terralith addon [grow terralith trees with saplings]
