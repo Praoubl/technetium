@@ -2,7 +2,7 @@ tech:
   - applied energistics 2
   - cc: tweaked
   - cc:c bridge
-  - create
+  - create fabric sodium fix
   - create: crafts and additions
   - create: extended cogwheels
   - create: new age
@@ -34,6 +34,7 @@ decoration:
   - additional banners
   - anvil heads
   - archaeology banners
+  - azalea
   - banner bedsheets
   - bits and chisels
   - blahaj
@@ -41,15 +42,21 @@ decoration:
   - chipped
   - double doors
   - dramatic doors
+  - flynt
+  - hazard diamond
   - infinite banner patterns
   - lanterns belong on walls
   - light emitting diode
   - more banner features
+  - more chests variants
+  - more crafting tables
   - nyf's banner patterns
   - ochetgenyo
+  - placeable new paintings [purpur pack]
   - rechiseled
   - rechiseled: create
   - stoneworks
+  - tall flower pots
   - twigs
 
 customization:
@@ -66,6 +73,7 @@ customization:
   - originstweaks
   - pehkui
   - simple fog control
+  - scarves
 
 additions:
   - additional additions
@@ -94,23 +102,28 @@ qol:
   - netherportalfix
   - orb of origin plus
   - polymorph
+  - press alt to meow
+  - ronco record vault
   - sherd duplication
   - trade cycling
+  - treeplacer - terralith addon
   - xaero's minimap
   - xaero's world map
 
 performance:
   - clumps
   - enhanced block entities
+  - fast anim
   - fastload
   - ferritecore
-  - indium (1.0.18)
+  - indium
   - krypton
   - lazydfu
   - memory leak fix
+  - modernfix
   - more culling
   - servercore
-  - sodium (0.4.10)
+  - sodium
 
 dependancies:
   - athena
@@ -121,11 +134,11 @@ dependancies:
   - cardinal components api
   - cloth config api
   - collective
-  - fabric api (0.88.1)
+  - fabric api
   - fabric language kotlin (1.10.10)
   - forge config api port
   - fusion (connected textures)
-  - geckolib (4.2.3)
+  - geckolib
   - midnightlib
   - moonlight lib
   - more axolotl variants api
@@ -134,9 +147,10 @@ dependancies:
   - resourceful lib
   - searchables
   - simple trims
-  - statement (4.2.6)
+  - statement
   - supermartijn642's config lib
   - supermartijn642's core lib
+  - treeplacer
   - oωo (owo-lib)
 
 server utilities:
