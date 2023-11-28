@@ -20,8 +20,6 @@
     plethora peripherals
 
 
-planned:
-
 1.2.1:
   removed: 
     create [replaced]
@@ -42,3 +40,11 @@ planned:
     treeplacer [dependancy]
     treeplacer - terralith addon [grow terralith trees with saplings]
     scarves
+
+
+planned:
+
+1.2.2:
+  added: 
+    botania
+    polymorphic energistics
