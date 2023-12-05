@@ -14,6 +14,7 @@ tech:
 
 magic:
   - amarite
+  - botania
   - runic enchanting
   - trinkets
 
@@ -55,6 +56,7 @@ decoration:
   - placeable new paintings [purpur pack]
   - rechiseled
   - rechiseled: create
+  - squashed!
   - stoneworks
   - tall flower pots
   - twigs
@@ -101,6 +103,7 @@ qol:
   - netherportalfix
   - orb of origin plus
   - polymorph
+  - polymorphic energistics
   - press alt to meow
   - ronco record vault
   - sherd duplication
