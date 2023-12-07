@@ -47,3 +47,10 @@
     botania
     polymorphic energistics
     squashed!
+
+
+planned:
+
+1.2.3:
+  added:
+    ctm create [connected textures for block of andesite alloy and block of brass, disabled by default]
