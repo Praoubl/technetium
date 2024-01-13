@@ -5,6 +5,7 @@ tech:
   - create fabric sodium fix
   - create: crafts and additions
   - create: extended cogwheels
+  - create: interactive
   - create: new age
   - create: steam 'n' rails
   - extended drawers
@@ -37,6 +38,7 @@ decoration:
   - archaeology banners
   - azalea
   - banner bedsheets
+  - biome tinted flowers
   - bits and chisels
   - blahaj
   - bushier flowers
@@ -153,6 +155,7 @@ dependancies:
   - supermartijn642's config lib
   - supermartijn642's core lib
   - treeplacer
+  - valkyrien skies
   - oωo (owo-lib)
 
 server utilities:
