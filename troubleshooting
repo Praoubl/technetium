@@ -1,2 +1,3 @@
 If you crash while loading a world try increasing the amount of memory allocated to your instance. 
 If you are using macOS try updating to a newer version.
+ModernFix makes the memory usage worse on some computers.
