@@ -1,4 +1,4 @@
-tech:
+Tech:
   - applied energistics 2
   - cc: tweaked
   - cc:c bridge
@@ -13,13 +13,13 @@ tech:
   - plethora peripherals
   - wired redstone
 
-magic:
+Magic:
   - amarite
   - botania
   - runic enchanting
   - trinkets
 
-worldgen:
+Worldgen:
   - ad astra
   - better end
   - better nether
@@ -32,8 +32,9 @@ worldgen:
   - terralith
   - the bumblezone
 
-decoration:
+Decoration:
   - additional banners
+  - another furniture
   - anvil heads
   - archaeology banners
   - azalea
@@ -43,6 +44,8 @@ decoration:
   - blahaj
   - bushier flowers
   - chipped
+  - create deco
+  - decorative blocks
   - double doors
   - dramatic doors
   - flynt
@@ -63,7 +66,7 @@ decoration:
   - tall flower pots
   - twigs
 
-customization:
+Customization:
   - 3d skin layers
   - create mod trims
   - create: origins
@@ -79,15 +82,16 @@ customization:
   - simple fog control
   - scarves
 
-additions:
+Additions:
   - additional additions
+  - farmer's delight
   - friends&foes
   - more axolotl variants mod
   - more lapis lazuli
   - more mob variants
   - more music discs
 
-qol:
+QOL:
   - crawl
   - elytra slot
   - fallingtree
@@ -114,7 +118,7 @@ qol:
   - xaero's minimap
   - xaero's world map
 
-performance:
+Performance:
   - clumps
   - enhanced block entities
   - fast anim
@@ -129,7 +133,7 @@ performance:
   - servercore
   - sodium
 
-dependancies:
+Dependancies:
   - athena
   - azurelib
   - bclib
@@ -158,7 +162,7 @@ dependancies:
   - valkyrien skies
   - oωo (owo-lib)
 
-server utilities:
+Server Utilities:
   - create support for open parties and claims
   - lootr
   - no chat reports
