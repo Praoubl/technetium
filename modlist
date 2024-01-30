@@ -70,8 +70,8 @@ Customization:
   - create mod trims
   - create: origins
   - ears
+  - figura
   - mob origins
-  - more cosmetics
   - origin furs
   - origins
   - origins++
@@ -93,7 +93,6 @@ Additions:
 QOL:
   - crawl
   - elytra slot
-  - fallingtree
   - forgotten graves
   - grappling hook mod: restitched
   - here be no dragons!
@@ -162,6 +161,7 @@ Dependancies:
   - oωo (owo-lib)
 
 Server Utilities:
+  - bbc_recipies
   - create support for open parties and claims
   - lootr
   - no chat reports
