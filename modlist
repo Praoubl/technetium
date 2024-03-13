@@ -67,7 +67,6 @@ Decoration:
 
 Customization:
   - 3d skin layers
-  - armourer's workshop
   - create mod trims
   - create: origins
   - ears
@@ -92,6 +91,7 @@ Additions:
   - more music discs
 
 QOL:
+  - amecs
   - crawl
   - elytra slot
   - forgotten graves
