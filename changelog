@@ -120,6 +120,7 @@ planned:
     pillarger
 
   removed:
+    create: metalwork
     create: origins (incompatable)
     origin furs
 
