@@ -119,6 +119,9 @@ planned:
     create: estrogen
     pillarger
 
+  removed:
+    origin furs
+
   notable updates:
     create
     fabric
