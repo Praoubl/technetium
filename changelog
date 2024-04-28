@@ -118,6 +118,7 @@ planned:
 1.3.6:
   removed:
     origin furs
+    fastload [doesn't work]
 
 
 1.4.0 (pending c:i compat with c 0.5.1.f)
