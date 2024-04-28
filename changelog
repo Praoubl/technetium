@@ -112,17 +112,21 @@
   removed:
     armourer's workshop [uses too much memory]
 
+
 planned:
 
-1.3.6
+1.3.6:
+  removed:
+    origin furs
+
+
+1.4.0 (pending c:i compat with c 0.5.1.f)
   added:
     create: estrogen
     pillarger
 
   removed:
-    create: metalwork
     create: origins (incompatable)
-    origin furs
 
   notable updates:
     create
