@@ -5,4 +5,4 @@ main version:
   no modernfix
 
 .b:
-  no modernfix, sodium, indium, macos input fixes
+  no modernfix, sodium, indium, macos input fixes, memory leak fix
