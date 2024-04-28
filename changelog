@@ -119,9 +119,6 @@ planned:
   removed:
     origin furs
 
-  swapped:
-    orb of origin plus [old version was depriciated]
-
 
 1.4.0 (pending c:i compat with c 0.5.1.f)
   added:
@@ -130,6 +127,9 @@ planned:
 
   removed:
     create: origins (incompatable)
+
+  swapped:
+    orb of origin plus [old version was depriciated]
 
   notable updates:
     create
