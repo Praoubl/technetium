@@ -113,12 +113,13 @@
     armourer's workshop [uses too much memory]
 
 
-planned:
-
 1.3.6:
   removed:
     origin furs
     double doors
+
+
+planned:
 
 
 1.4.0 (pending c:i compat with c 0.5.1.f)
