@@ -118,11 +118,10 @@
     origin furs
     double doors
 
+
 1.3.7:
   reverted mod updates to what was in 1.3.3, hopefully less glitchy
 
-
-planned:
 
 1.3.8:
   unreverted mod updates, changed a few configs
@@ -130,7 +129,10 @@ planned:
   removed:
     more lapis lazuli
 
-1.4.0 (pending c:i compat with c 0.5.1.f)
+
+planned:
+
+1.4.0: (pending c:i compat with c 0.5.1.f)
   added:
     create: estrogen
     pillarger
@@ -145,5 +147,6 @@ planned:
     create
     create: steam 'n' rails
     fabric
+    fabric api
     sodium
     valkyrien skies
