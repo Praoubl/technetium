@@ -132,7 +132,7 @@
 
 planned:
 
-1.4.0: (pending c:i compat with c 0.5.1.f)
+1.4.0/1?: (pending c:i compat with c 0.5.1.f)
   added:
     create: estrogen
     pillarger
