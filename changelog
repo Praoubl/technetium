@@ -132,21 +132,23 @@
 
 planned:
 
-1.4.0/1?: (pending c:i compat with c 0.5.1.f)
+1.4.0:
   added:
-    create: estrogen
-    pillarger
+    create: estrogen?
+    pillarger (connected textures for logs and pillars)
 
   removed:
-    create: origins (incompatable)
+    create: origins [incompatable]
+    simple trims [no longer needed]
 
   swapped:
     orb of origin plus [old version was depriciated]
 
   notable updates:
     create
-    create: steam 'n' rails
+    create: interactive (contraptions now need the "interact me" decal on them to be interactable)
+    create: steam 'n' rails (new bogeys, rails, blocks, and smoke)
     fabric
     fabric api
-    sodium
+    sodium (better performance)
     valkyrien skies
