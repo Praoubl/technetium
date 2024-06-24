@@ -134,10 +134,11 @@ planned:
 
 1.4.0:
   added:
-    create: estrogen?
+    create: estrogen
     pillarger (connected textures for logs and pillars)
 
   removed:
+    azurelib [unneccessary]
     create: origins [incompatable]
     simple trims [no longer needed]
 
