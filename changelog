@@ -145,7 +145,7 @@ planned:
     orb of origin plus
 
   notable updates:
-    ad astra
+    ad astra (breaking changes, see ad astra's changelog)
     create
     create: interactive (contraptions now need the "interact me" decal on them to be interactable)
     create: steam 'n' rails (new bogeys, rails, blocks, and smoke)
