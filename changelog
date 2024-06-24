@@ -140,6 +140,7 @@ planned:
   removed:
     azurelib [unneccessary]
     create: origins [incompatable]
+    ctov friends and foes compat [no longer needed]
     simple trims [no longer needed]
 
   swapped:
