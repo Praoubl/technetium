@@ -134,6 +134,7 @@ planned:
 
 1.4.0:
   added:
+    create: copycats+
     create: estrogen
     pillarger (connected textures for logs and pillars)
 
