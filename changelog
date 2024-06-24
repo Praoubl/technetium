@@ -142,10 +142,7 @@ planned:
     azurelib [unneccessary]
     create: origins [incompatable]
     ctov friends and foes compat [no longer needed]
-    simple trims [no longer needed]
-
-  swapped:
-    orb of origin plus [old version was deprecated]
+    orb of origin plus
 
   notable updates:
     create
