@@ -85,7 +85,6 @@ Additions:
   - friends&foes
   - more axolotl variants mod
   - more mob variants
-  - more music discs
 
 QOL:
   - amecs
@@ -131,7 +130,6 @@ Performance:
 
 Dependancies:
   - athena
-  - azurelib
   - bclib
   - bookshelf
   - botarium
