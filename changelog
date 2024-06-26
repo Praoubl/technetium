@@ -153,6 +153,6 @@ planned:
     fabric
     fabric api
     more geodes
-    sodium (better performance, singleplayer worlds can now be loaded with 2.2gb of RAM)
+    sodium (better performance, singleplayer worlds can now be (barely) loaded with 2gb of RAM)
     tectonic (superflat works now)
     valkyrien skies
