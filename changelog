@@ -132,6 +132,15 @@
 
 planned:
 
+1.3.9:
+  removed:
+    azurelib [unneccessary]
+    more music discs [unreasonably large filesize]
+
+  notable updates:
+    ad astra (major rework, breaking changes, see ad astra's changelog)
+
+
 1.4.0:
   added:
     create: copycats+
@@ -139,14 +148,11 @@ planned:
     pillarger (connected textures for logs and pillars)
 
   removed:
-    azurelib [unneccessary]
     create: origins [incompatable]
     ctov friends and foes compat [no longer needed]
-    more music discs [unreasonably large filesize]
     orb of origin plus
 
   notable updates:
-    ad astra (major rework, breaking changes, see ad astra's changelog)
     create
     create: interactive (contraptions now need the "interact me" decal on them to be interactable)
     create: steam 'n' rails (new bogeys, rails, blocks, and smoke)
