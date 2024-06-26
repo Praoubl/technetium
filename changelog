@@ -131,7 +131,6 @@
 
 
 1.3.9:
-
   removed:
     azurelib [unneccessary]
     more music discs [unreasonably large filesize]
