@@ -148,6 +148,9 @@ planned:
     create: estrogen
     pillarger (connected textures for logs and pillars)
 
+  swapped:
+    farmer's delight [depricated]
+
   removed:
     create: origins [incompatable]
     ctov friends and foes compat [no longer needed]
