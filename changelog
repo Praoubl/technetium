@@ -141,7 +141,7 @@
 
 planned:
 
-1.4.0:
+1.4.0: (server breaks bitsandchisels, bclib, betternether, betterend)
   added:
     alternate origin gui
     create: copycats+
