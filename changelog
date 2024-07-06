@@ -144,7 +144,6 @@ planned:
 1.3.10:
   added:
     alternate origin gui
-    storage drawers create compat?
 
   removed:
     orb of origin plus
