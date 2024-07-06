@@ -147,6 +147,9 @@ planned:
     create: coggle
     storage drawers create compat?
 
+  removed:
+    orb of origin plus
+
 1.4.0:
   added:
     create: copycats+
@@ -159,7 +162,6 @@ planned:
   removed:
     create: origins [incompatable]
     ctov friends and foes compat [no longer needed]
-    orb of origin plus
 
   notable updates:
     create
