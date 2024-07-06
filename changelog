@@ -141,15 +141,9 @@
 
 planned:
 
-1.3.10: (fold into 1.4.0?)
-  added:
-    alternate origin gui
-
-  removed:
-    orb of origin plus
-
 1.4.0:
   added:
+    alternate origin gui
     create: copycats+
     create: estrogen
     pillarger (connected textures for logs and pillars)
@@ -160,6 +154,7 @@ planned:
   removed:
     create: origins [incompatable]
     ctov friends and foes compat [no longer needed]
+    orb of origin plus
 
   notable updates:
     create
