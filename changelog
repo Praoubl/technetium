@@ -144,7 +144,6 @@ planned:
 1.3.10:
   added:
     alternate origin gui
-    create: coggle
     storage drawers create compat?
 
   removed:
@@ -152,6 +151,7 @@ planned:
 
 1.4.0:
   added:
+    create: coggle
     create: copycats+
     create: estrogen
     pillarger (connected textures for logs and pillars)
