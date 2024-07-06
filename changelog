@@ -148,6 +148,7 @@ planned:
     create: estrogen
     distant horizons serverside version [on server and .d only]
     pillarger (connected textures for logs and pillars)
+    stacc-api
 
   swapped:
     farmer's delight [deprecated]
