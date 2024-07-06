@@ -145,6 +145,7 @@ planned:
   added:
     alternate origin gui
     create: coggle
+    storage drawers create compat?
 
 1.4.0:
   added:
