@@ -25,7 +25,6 @@ Worldgen:
   - better end
   - better nether
   - choicetheorem's overhauled village
-  - ctov - friends and foes compat
   - minerally
   - more geodes
   - more fossils
@@ -70,7 +69,6 @@ Decoration:
 Customization:
   - 3d skin layers
   - create mod trims
-  - create: origins
   - ears
   - figura
   - mob origins
@@ -106,7 +104,6 @@ QOL:
   - mouse wheelie
   - nature's compass
   - netherportalfix
-  - orb of origin plus
   - polymorph
   - polymorphic energistics
   - press alt to meow
