@@ -4,6 +4,7 @@ Tech:
   - cc:c bridge
   - create
   - create: crafts and additions
+  - create: estrogen (4.2.7)
   - create: extended cogwheels
   - create: interactive
   - create: new age
@@ -43,6 +44,7 @@ Decoration:
   - blahaj
   - bushier flowers
   - chipped
+  - create: copycats+
   - create deco
   - decorative blocks
   - dramatic doors
@@ -56,6 +58,7 @@ Decoration:
   - more crafting tables
   - nyf's banner patterns
   - ochetgenyo
+  - pillarger
   - placeable new paintings [purpur pack]
   - rechiseled
   - rechiseled: create
@@ -87,6 +90,7 @@ Additions:
   - more mob variants
 
 QOL:
+  - alternate origin gui
   - amecs
   - crawl
   - elytra slot
@@ -149,6 +153,7 @@ Dependancies:
   - resourceful lib
   - searchables
   - simple trims
+  - stacc-api
   - statement
   - supermartijn642's config lib
   - supermartijn642's core lib
