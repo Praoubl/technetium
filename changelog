@@ -139,16 +139,14 @@
     ad astra (major rework, breaking changes, see ad astra's changelog)
 
 
-planned:
-
-1.4.0: (server breaks bitsandchisels, bclib, betternether, betterend, c:e, item swapper)
+1.4.0:
   added:
     alternate origin gui
     create: copycats+
     create: estrogen (4.2.7)
     distant horizons serverside version [on server and .d only]
     pillarger (connected textures for logs and pillars)
-    stacc-api
+    stacc-api [un-breaks bits & chisels]
 
   swapped:
     farmer's delight [deprecated]
