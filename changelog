@@ -165,3 +165,10 @@
     sodium (better performance, singleplayer worlds can now be (barely) loaded with 2gb of RAM)
     tectonic (superflat works now)
     valkyrien skies
+
+
+planned:
+
+1.4.1:
+  downgrades:
+      farmer's delight refabricated (2.1.0) [server weirdness]
