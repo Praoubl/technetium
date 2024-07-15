@@ -1,17 +1,17 @@
 Tech:
-  - applied energistics 2
-  - cc: tweaked
-  - cc:c bridge
-  - create
-  - create: crafts and additions
-  - create: estrogen (4.2.7)
-  - create: extended cogwheels
-  - create: interactive
-  - create: new age
-  - create: steam 'n' rails
-  - extended drawers
-  - modern industrialization
-  - plethora peripherals
+Y  - applied energistics 2
+Y  - cc: tweaked
+Y  - cc:c bridge
+Y  - create
+Y  - create: crafts and additions
+Y  - create: estrogen (4.2.7)
+Y  - create: extended cogwheels
+Y (not on patch f yet)  - create: interactive
+Y  - create: new age
+Y  - create: steam 'n' rails
+N (has altenatives) - extended drawers
+N (neo in the works for 1.20.4+)  - modern industrialization
+N  - plethora peripherals
   - wired redstone
 
 Magic:
