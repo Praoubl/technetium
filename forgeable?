@@ -2,7 +2,7 @@ Add:
 gregtech ce modernized
 create: trackwork
 
-Tech: 4
+Tech: 3
 Y  - applied energistics 2
 Y  - cc: tweaked
 Y  - cc:c bridge
@@ -24,13 +24,13 @@ Y  - botania
 N  - runic enchanting
 N (replace with curios api)  - trinkets
 
-Worldgen: 5
+Worldgen: 4
 Y  - ad astra
 N  - better end
 N  - better nether
 Y  - choicetheorem's overhauled village
 N  - minerally
-N  - more geodes
+Y (more goedes reforged)  - more geodes
 Y  - more fossils
 Y  - tectonic
 Y  - terralith
