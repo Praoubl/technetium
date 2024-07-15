@@ -12,25 +12,25 @@ Y  - create: steam 'n' rails
 N (has altenatives) - extended drawers
 N (neo in the works for 1.20.4+)  - modern industrialization
 N  - plethora peripherals
-  - wired redstone
+N  - wired redstone
 
 Magic:
-  - amarite
-  - botania
-  - runic enchanting
-  - trinkets
+N  - amarite
+Y  - botania
+N  - runic enchanting
+N (replace with curios api)  - trinkets
 
 Worldgen:
-  - ad astra
-  - better end
-  - better nether
-  - choicetheorem's overhauled village
-  - minerally
-  - more geodes
-  - more fossils
-  - tectonic
-  - terralith
-  - the bumblezone
+Y  - ad astra
+N  - better end
+N  - better nether
+Y  - choicetheorem's overhauled village
+N  - minerally
+N  - more geodes
+Y  - more fossils
+Y  - tectonic
+Y  - terralith
+N  - the bumblezone
 
 Decoration:
   - additional banners
