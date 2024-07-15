@@ -1,1 +1,168 @@
+Tech:
+  - applied energistics 2
+  - cc: tweaked
+  - cc:c bridge
+  - create
+  - create: crafts and additions
+  - create: estrogen (4.2.7)
+  - create: extended cogwheels
+  - create: interactive
+  - create: new age
+  - create: steam 'n' rails
+  - extended drawers
+  - modern industrialization
+  - plethora peripherals
+  - wired redstone
 
+Magic:
+  - amarite
+  - botania
+  - runic enchanting
+  - trinkets
+
+Worldgen:
+  - ad astra
+  - better end
+  - better nether
+  - choicetheorem's overhauled village
+  - minerally
+  - more geodes
+  - more fossils
+  - tectonic
+  - terralith
+  - the bumblezone
+
+Decoration:
+  - additional banners
+  - another furniture
+  - anvil heads
+  - archaeology banners
+  - banner bedsheets
+  - biome tinted flowers
+  - bits and chisels
+  - blahaj
+  - bushier flowers
+  - chipped
+  - create: copycats+
+  - create deco
+  - decorative blocks
+  - dramatic doors
+  - flynt
+  - hazard diamond
+  - infinite banner patterns
+  - lanterns belong on walls
+  - light emitting diode
+  - more banner features
+  - more chests variants
+  - more crafting tables
+  - nyf's banner patterns
+  - ochetgenyo
+  - pillarger
+  - placeable new paintings [purpur pack]
+  - rechiseled
+  - rechiseled: create
+  - squashed!
+  - stoneworks
+  - tall flower pots
+  - twigs
+
+Customization:
+  - 3d skin layers
+  - create mod trims
+  - ears
+  - figura
+  - mob origins
+  - origins
+  - origins++
+  - origins: classes
+  - originstweaks
+  - pehkui
+  - simple fog control
+  - scarves
+
+Additions:
+  - additional additions
+  - farmer's delight
+  - friends&foes
+  - more axolotl variants mod
+  - more mob variants
+
+QOL:
+  - alternate origin gui
+  - amecs
+  - crawl
+  - elytra slot
+  - forgotten graves
+  - grappling hook mod: restitched
+  - here be no dragons!
+  - item swapper
+  - jade
+  - jade addons
+  - just enough items
+  - macos input fixes
+  - mod menu
+  - mouse wheelie
+  - nature's compass
+  - netherportalfix
+  - polymorph
+  - polymorphic energistics
+  - press alt to meow
+  - ronco record vault
+  - sherd duplication
+  - trade cycling
+  - treeplacer - terralith addon
+  - xaero's minimap
+  - xaero's world map
+
+Performance:
+  - clumps
+  - enhanced block entities
+  - fast anim
+  - fastload
+  - ferritecore
+  - indium
+  - krypton
+  - lazydfu
+  - memory leak fix
+  - modernfix
+  - more culling
+  - servercore
+  - sodium
+
+Dependancies:
+  - athena
+  - bclib
+  - bookshelf
+  - botarium
+  - cardinal components api
+  - cloth config api
+  - collective
+  - fabric api
+  - fabric language kotlin (1.10.10)
+  - forge config api port
+  - fusion (connected textures)
+  - geckolib
+  - midnightlib
+  - moonlight lib
+  - more axolotl variants api
+  - puzzles lib
+  - resourceful config
+  - resourceful lib
+  - searchables
+  - simple trims
+  - stacc-api
+  - statement
+  - supermartijn642's config lib
+  - supermartijn642's core lib
+  - treeplacer
+  - valkyrien skies
+  - oωo (owo-lib)
+
+Server Utilities:
+  - bbc_recipies
+  - create support for open parties and claims
+  - lootr
+  - no chat reports
+  - open parties and claims
+  - time control
+  - timeoutout
