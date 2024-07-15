@@ -1,4 +1,4 @@
-Tech:
+Tech: 4
 Y  - applied energistics 2
 Y  - cc: tweaked
 Y  - cc:c bridge
@@ -14,13 +14,13 @@ N (neo in the works for 1.20.4+)  - modern industrialization
 N  - plethora peripherals
 N  - wired redstone
 
-Magic:
+Magic: 2
 N  - amarite
 Y  - botania
 N  - runic enchanting
 N (replace with curios api)  - trinkets
 
-Worldgen:
+Worldgen: 5
 Y  - ad astra
 N  - better end
 N  - better nether
