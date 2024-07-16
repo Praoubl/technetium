@@ -37,39 +37,39 @@ Y  - tectonic
 Y  - terralith
 N  - the bumblezone
 
-Decoration:
-  - additional banners
-  - another furniture
-  - anvil heads
-  - archaeology banners
-  - banner bedsheets
-  - biome tinted flowers
-  - bits and chisels
-  - blahaj
-  - bushier flowers
-  - chipped
-  - create: copycats+
-  - create deco
-  - decorative blocks
-  - dramatic doors
-  - flynt
-  - hazard diamond
-  - infinite banner patterns
-  - lanterns belong on walls
-  - light emitting diode
-  - more banner features
-  - more chests variants
-  - more crafting tables
-  - nyf's banner patterns
-  - ochetgenyo
-  - pillarger
-  - placeable new paintings [purpur pack]
-  - rechiseled
-  - rechiseled: create
-  - squashed!
-  - stoneworks
-  - tall flower pots
-  - twigs
+Decoration: 10
+Y  - additional banners
+Y  - another furniture
+N (replace with drop head)  - anvil heads
+Y  - archaeology banners
+Y  - banner bedsheets
+N  - biome tinted flowers
+N (replace with little tiles)  - bits and chisels
+N (replace with blahaj expanded)  - blahaj
+Y  - bushier flowers
+Y  - chipped
+Y  - create: copycats+
+Y  - create deco
+Y  - decorative blocks
+Y  - dramatic doors
+Y  - flynt
+N  - hazard diamond
+N  - infinite banner patterns
+N  - lanterns belong on walls
+N  - light emitting diode
+N  - more banner features
+Y  - more chests variants
+Y  - more crafting tables
+Y  - nyf's banner patterns
+N  - ochetgenyo
+N  - pillarger
+Y  - placeable new paintings [purpur pack]
+Y  - rechiseled
+Y  - rechiseled: create
+N  - squashed!
+Y  - stoneworks
+N  - tall flower pots
+Y (3.1.0)  - twigs
 
 Customization:
   - 3d skin layers
@@ -134,7 +134,7 @@ Performance:
   - servercore
   - sodium
 
-Dependancies:
+Dependancies: n/a
   - athena
   - bclib
   - bookshelf
