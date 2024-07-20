@@ -85,12 +85,12 @@ Y  - pehkui
 N  - scarves
 N (replace with fog overrides)  - simple fog control
 
-Additions:
+Additions: 1
 Y  - additional additions
-  - farmer's delight
-  - friends&foes
-  - more axolotl variants mod
-  - more mob variants
+Y (original version)  - farmer's delight
+N  - friends&foes
+Y  - more axolotl variants mod
+Y  - more mob variants
 
 QOL:
   - alternate origin gui
