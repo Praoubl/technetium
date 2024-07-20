@@ -71,22 +71,22 @@ Y  - stoneworks
 N  - tall flower pots
 Y (3.1.0)  - twigs
 
-Customization:
+Customization: 6
 Y  - 3d skin layers
-  - create: armor trims
-  - ears
-  - figura
-  - mob origins
-  - origins
-  - origins++
-  - origins: classes
-  - originstweaks
-  - pehkui
-  - simple fog control
-  - scarves
+Y  - create: armor trims
+Y  - ears
+Y  - figura
+N  - mob origins
+N  - origins
+N  - origins++
+N  - origins: classes
+N  - originstweaks
+Y  - pehkui
+N  - scarves
+N (replace with fog overrides)  - simple fog control
 
 Additions:
-  - additional additions
+Y  - additional additions
   - farmer's delight
   - friends&foes
   - more axolotl variants mod
