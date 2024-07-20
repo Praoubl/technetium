@@ -1,7 +1,13 @@
 Add:
 gregtech ce modernized
-create: trackwork
+create: trackwork (1.20.1 not out yet)
 the aether
+entity culling
+sinytra connector?
+canary?
+saturn?
+
+40
 
 Tech: 3
 Y  - applied energistics 2
@@ -119,20 +125,20 @@ Y  - treeplacer - terralith addon
 Y  - xaero's minimap
 Y  - xaero's world map
 
-Performance: (refinagle)
-  - clumps
-  - enhanced block entities
-  - fast anim
-  - fastload
-  - ferritecore
-  - indium
-  - krypton
-  - lazydfu
-  - memory leak fix
-  - modernfix
-  - more culling
-  - servercore
-  - sodium
+Performance: (refinagle) 5
+Y  - clumps
+N  - enhanced block entities
+N  - fast anim
+Y  - fastload
+Y  - ferritecore
+n/a  - indium
+N  - krypton
+N  - lazydfu
+Y (use 1.1.2)  - memory leak fix
+Y  - modernfix
+N  - more culling
+Y  - servercore
+N (replace with embeddium)  - sodium
 
 Dependancies: n/a
   - athena
@@ -163,11 +169,11 @@ Dependancies: n/a
   - valkyrien skies
   - oωo (owo-lib)
 
-Server Utilities:
-  - bbc_recipies
-  - create support for open parties and claims
-  - lootr
-  - no chat reports
-  - open parties and claims
-  - time control
-  - timeoutout
+Server Utilities: 2
+Y (repackage)  - bbc_recipies
+N  - create support for open parties and claims
+Y  - lootr
+Y  - no chat reports
+Y  - open parties and claims
+Y  - time control
+N  - timeoutout
