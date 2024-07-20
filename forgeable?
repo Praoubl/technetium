@@ -92,32 +92,32 @@ N  - friends&foes
 Y  - more axolotl variants mod
 Y  - more mob variants
 
-QOL:
-  - alternate origin gui
-  - amecs
-  - crawl
-  - elytra slot
-  - forgotten graves
-  - grappling hook mod: restitched
-  - here be no dragons!
-  - item swapper
-  - jade
-  - jade addons
-  - just enough items
-  - macos input fixes
-  - mod menu
-  - mouse wheelie
-  - nature's compass
-  - netherportalfix
-  - polymorph
-  - polymorphic energistics
-  - press alt to meow
-  - ronco record vault
-  - sherd duplication
-  - trade cycling
-  - treeplacer - terralith addon
-  - xaero's minimap
-  - xaero's world map
+QOL: 7
+N  - alternate origin gui
+N  - amecs
+N (replace with crawl on demand)  - crawl
+Y  - elytra slot
+N (replace with gravestone mod)  - forgotten graves
+N (replace with grappling hook mod)  - grappling hook mod: restitched
+N (replace with  experimental settings disabler)  - here be no dragons!
+N  - item swapper
+Y  - jade
+Y (forge version)  - jade addons
+Y  - just enough items
+N  - macos input fixes
+N  - mod menu
+N  - mouse wheelie
+Y  - nature's compass
+Y  - netherportalfix
+Y  - polymorph
+Y  - polymorphic energistics
+N (replace with meow!)  - press alt to meow
+N  - ronco record vault
+Y  - sherd duplication
+Y  - trade cycling
+Y  - treeplacer - terralith addon
+Y  - xaero's minimap
+Y  - xaero's world map
 
 Performance: (refinagle)
   - clumps
