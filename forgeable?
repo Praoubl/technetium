@@ -3,9 +3,7 @@ gregtech ce modernized
 create: trackwork (1.20.1 not out yet)
 the aether
 entity culling
-sinytra connector?
-canary?
-saturn?
+sinytra connector
 
 40
 
@@ -125,9 +123,9 @@ Y  - treeplacer - terralith addon
 Y  - xaero's minimap
 Y  - xaero's world map
 
-Performance: (refinagle) 5
+Performance: (refinagle) 4
 Y  - clumps
-N  - enhanced block entities
+N (s)  - enhanced block entities
 N  - fast anim
 Y  - fastload
 Y  - ferritecore
