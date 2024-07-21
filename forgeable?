@@ -70,7 +70,7 @@ N  - pillarger
 Y  - placeable new paintings [purpur pack]
 Y  - rechiseled
 Y  - rechiseled: create
-N  - squashed!
+N (doesn't work with siny)  - squashed!
 Y  - stoneworks
 N  - tall flower pots
 Y (3.1.0)  - twigs
