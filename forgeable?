@@ -41,7 +41,7 @@ Y  - tectonic
 Y  - terralith
 N  - the bumblezone
 
-Decoration: 10
+Decoration: 7
 Y  - additional banners
 Y  - another furniture
 N (replace with drop head)  - anvil heads
@@ -58,10 +58,10 @@ Y  - decorative blocks
 Y  - dramatic doors
 Y  - flynt
 N  - hazard diamond
-N  - infinite banner patterns
-N  - lanterns belong on walls
+N (siny)  - infinite banner patterns
+N (siny)  - lanterns belong on walls
 N (replace with project red - illumination)  - light emitting diode
-N  - more banner features
+N (siny)  - more banner features
 Y  - more chests variants
 Y  - more crafting tables
 Y  - nyf's banner patterns
