@@ -41,7 +41,7 @@ Y  - tectonic
 Y  - terralith
 N  - the bumblezone
 
-Decoration: 7
+Decoration: 6
 Y  - additional banners
 Y  - another furniture
 N (replace with drop head)  - anvil heads
@@ -72,7 +72,7 @@ Y  - rechiseled
 Y  - rechiseled: create
 N (doesn't work with siny)  - squashed!
 Y  - stoneworks
-N  - tall flower pots
+N (siny)  - tall flower pots
 Y (3.1.0)  - twigs
 
 Customization: 6
