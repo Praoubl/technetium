@@ -19,7 +19,7 @@ Y (not on patch f yet)  - create: interactive
 Y  - create: new age
 Y  - create: steam 'n' rails
 N (replace with storage drawers, storage drawers crete compat, and more vanilla drawers) - extended drawers
-N (neo in the works for 1.20.4+) (replace with greg)  - modern industrialization
+N (neo in the works for 1.20.4+) (replace with greg) (could siny, see #404 on their gh)  - modern industrialization
 N  - plethora peripherals
 N (replace with project red - transmission and project red - integration)  - wired redstone
 
