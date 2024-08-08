@@ -5,7 +5,6 @@ essentials
 farmer's delight
 fastload
 ferritecore
-figura
 friends&foes
 gravestone mod
 memory leak fix
@@ -67,6 +66,10 @@ Decoration:
   rechiseled: create
   stoneworks
   tall flower pots
+
+
+Customization:
+  figura
 
 
 Dependancies:
