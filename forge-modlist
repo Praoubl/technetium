@@ -1,4 +1,3 @@
-dramatic doors
 embeddium
 enhanced block entities
 entitiy culling
@@ -7,29 +6,13 @@ farmer's delight
 fastload
 ferritecore
 figura
-flynt
 friends&foes
-furnish
 gravestone mod
-gregtech: refreshed
-infinite banner patterns
-lanterns belong on walls
-littletiles
 memory leak fix
 modernfix
-more banner features
-more chests varients (mcv)
-more crafting tables (mct)
-more vanilla drawers
-nyf's banner patterns
-placeable new paintings [purpur pack]
 rei plugin compatabilities
-rechiseled
-rechiseled: create
 roughly enough items (rei)
 server core
-stoneworks
-tall flower pots
 twigs
 
 
@@ -45,6 +28,7 @@ Tech:
   create: steam 'n' rails
   crossroads
   gregtechceu modern
+  more vanilla drawers
   projectred core
   projectred illumination
   projectred integration
@@ -64,6 +48,25 @@ Worldgen:
   tectonic
   terralith
   the aether
+
+
+Decoration:
+  dramatic doors
+  flynt
+  furnish
+  gregtech: refreshed
+  infinite banner patterns
+  lanterns belong on walls
+  littletiles
+  more banner features
+  more chests varients (mcv)
+  more crafting tables (mct)
+  nyf's banner patterns
+  placeable new paintings [purpur pack]
+  rechiseled
+  rechiseled: create
+  stoneworks
+  tall flower pots
 
 
 Dependancies:
