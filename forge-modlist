@@ -1,108 +1,108 @@
 Tech:
-  cc: tweaked
-  create
-  create crafts & additions
-  create deco
-  create enchantment industry
-  create: copycats+
-  create: molten vents
-  create: northstar
-  create: steam 'n' rails
-  crossroads
-  gregtechceu modern
-  more vanilla drawers
-  projectred core
-  projectred illumination
-  projectred integration
-  projectred transmission
-  storage drawers
-  storage drawers create compat
+  - cc: tweaked
+  - create
+  - create crafts & additions
+  - create deco
+  - create enchantment industry
+  - create: copycats+
+  - create: molten vents
+  - create: northstar
+  - create: steam 'n' rails
+  - crossroads
+  - gregtechceu modern
+  - more vanilla drawers
+  - projectred core
+  - projectred illumination
+  - projectred integration
+  - projectred transmission
+  - storage drawers
+  - storage drawers create compat
 
 Magic:
-  botania
+  - botania
 
 
 Worldgen:
-  eldritch end
-  more fossils
-  more geodes reforged
-  nether 3.0
-  tectonic
-  terralith
-  the aether
+  - eldritch end
+  - more fossils
+  - more geodes reforged
+  - nether 3.0
+  - tectonic
+  - terralith
+  - the aether
 
 
 Decoration:
-  dramatic doors
-  flynt
-  furnish
-  gregtech: refreshed
-  infinite banner patterns
-  lanterns belong on walls
-  littletiles
-  more banner features
-  more chests varients (mcv)
-  more crafting tables (mct)
-  nyf's banner patterns
-  placeable new paintings [purpur pack]
-  rechiseled
-  rechiseled: create
-  stoneworks
-  tall flower pots
+  - dramatic doors
+  - flynt
+  - furnish
+  - gregtech: refreshed
+  - infinite banner patterns
+  - lanterns belong on walls
+  - littletiles
+  - more banner features
+  - more chests varients (mcv)
+  - more crafting tables (mct)
+  - nyf's banner patterns
+  - placeable new paintings [purpur pack]
+  - rechiseled
+  - rechiseled: create
+  - stoneworks
+  - tall flower pots
 
 
 Customization:
-  figura
+  - figura
 
 
 Additions:
-  essentials
-  farmer's delight
-  friends&foes
-  twigs
+  - essentials
+  - farmer's delight
+  - friends&foes
+  - twigs
 
 
 Qol:
-  gravestone mod
-  rei plugin compatabilities
-  roughly enough items (rei)
+  - gravestone mod
+  - rei plugin compatabilities
+  - roughly enough items (rei)
 
 Optimization:
-  embeddium
-  enhanced block entities
-  entitiy culling
-  fastload
-  ferritecore
-  memory leak fix
-  modernfix
-  server core
+  - embeddium
+  - enhanced block entities
+  - entitiy culling
+  - fastload
+  - ferritecore
+  - memory leak fix
+  - modernfix
+  - server core
 
 
 Dependancies:
-  architectury api
-  athena
-  azurelib
-  bookshelf
-  botarium
-  cb multipart
-  cloth config api
-  codechicken lib
-  connector extras
-  creativecore
-  curios api
-  forgified fabric api
-  fusion (connected textures)
-  geckolib
-  kotlin for forge
-  lithostiched
-  necronomicon api
-  patchouli
-  puzzles lib
-  quad
-  resourceful config
-  resourceful lib
-  sinytra connector
-  statement
-  supermartijin642's config lib
-  supermartijin642's core lib
-  valkyrien skies
+  - architectury api
+  - athena
+  - azurelib
+  - bookshelf
+  - botarium
+  - cb multipart
+  - cloth config api
+  - codechicken lib
+  - connector extras
+  - creativecore
+  - curios api
+  - forgified fabric api
+  - fusion (connected textures)
+  - geckolib
+  - kotlin for forge
+  - lithostiched
+  - necronomicon api
+  - patchouli
+  - puzzles lib
+  - quad
+  - resourceful config
+  - resourceful lib
+  - sinytra connector
+  - statement
+  - supermartijin642's config lib
+  - supermartijin642's core lib
+  - valkyrien skies
