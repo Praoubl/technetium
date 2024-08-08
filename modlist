@@ -18,7 +18,6 @@ Magic:
   - amarite
   - botania
   - runic enchanting
-  - trinkets
 
 Worldgen:
   - ad astra
@@ -64,7 +63,6 @@ Decoration:
   - squashed!
   - stoneworks
   - tall flower pots
-  - twigs
 
 Customization:
   - 3d skin layers
@@ -86,6 +84,7 @@ Additions:
   - friends&foes
   - more axolotl variants mod
   - more mob variants
+  - twigs
 
 QOL:
   - alternate origin gui
@@ -155,6 +154,7 @@ Dependancies:
   - supermartijn642's config lib
   - supermartijn642's core lib
   - treeplacer
+  - trinkets
   - valkyrien skies
   - oωo (owo-lib)
 
