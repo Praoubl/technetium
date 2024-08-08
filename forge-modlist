@@ -1,20 +1,3 @@
-embeddium
-enhanced block entities
-entitiy culling
-essentials
-farmer's delight
-fastload
-ferritecore
-friends&foes
-gravestone mod
-memory leak fix
-modernfix
-rei plugin compatabilities
-roughly enough items (rei)
-server core
-twigs
-
-
 Tech:
   cc: tweaked
   create
@@ -70,6 +53,29 @@ Decoration:
 
 Customization:
   figura
+
+
+Additions:
+  essentials
+  farmer's delight
+  friends&foes
+  twigs
+
+
+Qol:
+  gravestone mod
+  rei plugin compatabilities
+  roughly enough items (rei)
+
+Optimization:
+  embeddium
+  enhanced block entities
+  entitiy culling
+  fastload
+  ferritecore
+  memory leak fix
+  modernfix
+  server core
 
 
 Dependancies:
