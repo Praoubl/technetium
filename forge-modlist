@@ -1,0 +1,87 @@
+botania
+cc: tweaked
+create
+create crafts & additions
+create deco
+create enchantment industry
+create: copycats+
+create: molten vents
+create: northstar
+create: steam 'n' rails
+crossroads
+dramatic doors
+eldritch end
+embeddium
+enhanced block entities
+entitiy culling
+essentials
+farmer's delight
+fastload
+ferritecore
+figura
+flynt
+friends&foes
+furnish
+gravestone mod
+gregtech: refreshed
+gregtechceu modern
+infinite banner patterns
+lanterns belong on walls
+lithostiched
+littletiles
+memory leak fix
+modernfix
+more banner features
+more chests varients (mcv)
+more crafting tables (mct)
+more fossils
+more geodes reforged
+more vanilla drawers
+nether 3.0
+nyf's banner patterns
+placeable new paintings [purpur pack]
+projectred core
+projectred illumination
+projectred integration
+projectred transmission
+rei plugin compatabilities
+rechiseled
+rechiseled: create
+roughly enough items (rei)
+server core
+stoneworks
+storage drawers
+storage drawers create compat
+tall flower pots
+tectonic
+terralith
+the aether
+twigs
+
+dependancies:
+  architectury api
+  athena
+  azurelib
+  bookshelf
+  botarium
+  cb multipart
+  cloth config api
+  codechicken lib
+  connector extras
+  creativecore
+  curios api
+  forgified fabric api
+  fusion (connected textures)
+  geckolib
+  kotlin for forge
+  necronomicon api
+  patchouli
+  puzzles lib
+  quad
+  resourceful config
+  resourceful lib
+  sinytra connector
+  statement
+  supermartijin642's config lib
+  supermartijin642's core lib
+  valkyrien skies
