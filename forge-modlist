@@ -1,14 +1,3 @@
-botania
-cc: tweaked
-create
-create crafts & additions
-create deco
-create enchantment industry
-create: copycats+
-create: molten vents
-create: northstar
-create: steam 'n' rails
-crossroads
 dramatic doors
 eldritch end
 embeddium
@@ -24,7 +13,6 @@ friends&foes
 furnish
 gravestone mod
 gregtech: refreshed
-gregtechceu modern
 infinite banner patterns
 lanterns belong on walls
 lithostiched
@@ -40,23 +28,41 @@ more vanilla drawers
 nether 3.0
 nyf's banner patterns
 placeable new paintings [purpur pack]
-projectred core
-projectred illumination
-projectred integration
-projectred transmission
 rei plugin compatabilities
 rechiseled
 rechiseled: create
 roughly enough items (rei)
 server core
 stoneworks
-storage drawers
-storage drawers create compat
 tall flower pots
 tectonic
 terralith
 the aether
 twigs
+
+
+tech:
+  cc: tweaked
+  create
+  create crafts & additions
+  create deco
+  create enchantment industry
+  create: copycats+
+  create: molten vents
+  create: northstar
+  create: steam 'n' rails
+  crossroads
+  gregtechceu modern
+  projectred core
+  projectred illumination
+  projectred integration
+  projectred transmission
+  storage drawers
+  storage drawers create compat
+
+magic:
+  botania
+
 
 dependancies:
   architectury api
