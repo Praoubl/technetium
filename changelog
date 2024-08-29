@@ -176,9 +176,12 @@
   added:
     nullscape (makes end terrain more varied and interesting)
 
+
 planned:
 
 1.4.3:
-  updated:
+  added:
     create: less ticking
+
+  updated:
     jei [bugfix]
