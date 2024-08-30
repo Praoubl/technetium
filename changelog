@@ -184,4 +184,5 @@ planned:
     create: less ticking
 
   updated:
-    jei [bugfix]
+    create: copycats+ [fixes and improvements]
+    jei [fix recipes sometimes not loading]
