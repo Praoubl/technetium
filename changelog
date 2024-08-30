@@ -177,11 +177,9 @@
     nullscape (makes end terrain more varied and interesting)
 
 
-planned:
-
 1.4.3:
   added:
-    create: less ticking
+    create: less ticking (optimizes funnels and chutes)
 
   updated:
     create: copycats+ [fixes and improvements]
