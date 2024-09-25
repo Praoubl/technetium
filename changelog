@@ -186,7 +186,7 @@
     jei [fix recipes sometimes not loading]
 
 
-planned:
-
 1.4.4:
-  added: table top craft
+  added: 
+    forgotten construct origin (by monowe)
+    table top craft (chess, connect four, and tic-tac-toe)
