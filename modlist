@@ -71,7 +71,6 @@ Customization:
   - ears
   - figura
   - forgotten construct origin
-  - mob origins
   - origins
   - origins++
   - origins: classes
@@ -139,6 +138,7 @@ Dependancies:
   - cardinal components api
   - cloth config api
   - collective
+  - cupboard
   - fabric api
   - fabric language kotlin (1.10.10)
   - forge config api port
@@ -163,9 +163,9 @@ Dependancies:
 
 Server Utilities:
   - bbc_recipies
+  - connectivity
   - create support for open parties and claims
   - lootr
   - no chat reports
   - open parties and claims
   - time control
-  - timeoutout
