@@ -197,8 +197,8 @@
 
 1.4.6:
   added:
-    cupboard [dependancy]
     connectivity (improves server connection)
+    cupboard [dependancy]
 
   removed:
     forgotten construct origin [server weirdness]
