@@ -190,3 +190,17 @@
   added: 
     forgotten construct origin (by monowe)
     table top craft (chess, connect four, and tic-tac-toe)
+
+1.4.5:
+  added:
+    modern industrialization better nether compat
+
+1.4.6:
+  added:
+    cupboard [dependancy]
+    connectivity (improves server connection)
+
+  removed:
+    forgotten construct origin [server weirdness]
+    moborigins [server weirdness]
+    timeoutout [incompatable]
