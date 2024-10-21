@@ -204,3 +204,8 @@
     forgotten construct origin [server weirdness]
     moborigins [server weirdness]
     timeoutout [incompatable]
+
+1.5.0:
+  removed:
+    create: interactive [very buggy]
+    valkyrien skies [very buggy]
