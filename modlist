@@ -16,6 +16,7 @@ Tech:
 Magic:
   - amarite
   - botania
+  - hex casting
   - runic enchanting
 
 Worldgen:
@@ -45,6 +46,7 @@ Decoration:
   - create deco
   - decorative blocks
   - dramatic doors
+  - el and el's dyes
   - flynt
   - hazard diamond
   - infinite banner patterns
@@ -68,6 +70,7 @@ Customization:
   - 3d skin layers
   - create: armor trims
   - ears
+  - fabric custom names
   - figura
   - forgotten construct origin
   - origins
@@ -146,6 +149,7 @@ Dependancies:
   - midnightlib
   - moonlight lib
   - more axolotl variants api
+  - paucal
   - puzzles lib
   - resourceful config
   - resourceful lib
