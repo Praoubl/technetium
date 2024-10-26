@@ -210,9 +210,8 @@
     create: interactive [very buggy]
     valkyrien skies [very buggy]
 
-planned:
-
 1.5.1:
   added:
     el and l's dyes (20 new dye colors and various things related to them)
     fabric custom names (change your name, item names, and item lore)
+    hex casting [caution: 1.20.1 port in development]
