@@ -215,3 +215,7 @@
     el and l's dyes (20 new dye colors and various things related to them)
     fabric custom names (change your name, item names, and item lore)
     hex casting [caution: 1.20.1 port in development]
+
+1.5.2:
+  updated:
+    bbc_recipes (add bamboo block to bamboo crafting recipe)
