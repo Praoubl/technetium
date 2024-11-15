@@ -222,11 +222,13 @@
 
 1.5.3:
   added: 
-    packet fixer
     create slice & dice (farmer's delight automation)
+    inline (hex casting dependancy, putting items/entities in text)
+    packet fixer
     terralith andesite patch
 
   updated:
     create: estrogen (thigh highs and rosy maple moths/fuzz wool/elytra)
     el & l's dyes
-    the bumblezone (fixes the crash upon exiting world bug apparently)
+    hex casting
+    the bumblezone
