@@ -232,3 +232,16 @@
     el & l's dyes
     hex casting
     the bumblezone
+
+planned:
+
+1.5.4:
+  swapped:
+    emi for jei
+
+  added:
+    ae2 emi crafting integration
+    emi addon: extra mod integrations
+    emi loot
+    emi ores
+    emi trades
