@@ -233,8 +233,6 @@
     hex casting
     the bumblezone
 
-planned:
-
 1.5.4:
   swapped:
     emi for jei
@@ -242,6 +240,8 @@ planned:
   added:
     ae2 emi crafting integration
     emi addon: extra mod integrations
+    emi enchanting
+    emiffect
     emi loot
     emi ores
     emi trades
