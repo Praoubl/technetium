@@ -245,6 +245,7 @@
     emi loot
     emi ores
     emi trades
+    fzzy config (dependancy)
 
   updated:
     ad astra
