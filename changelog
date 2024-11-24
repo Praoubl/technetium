@@ -251,3 +251,7 @@
     ad astra
     botania
     create: copyats+
+
+1.5.5:
+  updated:
+    bbc_recipies 1.0.2 (added recipes for the prevously unobtainable decorative hex casting blocks)
