@@ -265,7 +265,8 @@ planned:
     unchipped (turn chipped block variants back into their original form with a stonecutter)
 
   updated:
-    create fabric (0.5.1-j-build.1631) (numerous improvements)
+    bbc_recipies 1.0.3 (added recipes to use charcoal and coke blocks for the ad astra coal generator, and washing sticky pistons to pistons)
+    create fabric 0.5.1-j-build.1631 (numerous improvements)
     create: steam 'n' rails
     jade addons
     the bumblezone
