@@ -259,14 +259,15 @@
 
 planned:
 
-1.5.6:
+1.6:
   added:
-    create enchantment industry fabric
+    create enchantment industry fabric (store xp and automate enchanting, item naming, and book copying)
+    unchipped (turn chipped block variants back into their original form with a stonecutter)
 
   updated:
-    create fabric (0.5.1-j-build.1631)
+    create fabric (0.5.1-j-build.1631) (numerous improvements)
     create: steam 'n' rails
     jade addons
 
   config change:
-    increased the amount of track you can place at once, and the max size of curves
+    increased the amount of track you can place at once, and thus the max size of curves
