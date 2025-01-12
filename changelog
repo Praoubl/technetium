@@ -271,3 +271,9 @@
 
   config change:
     increased the amount of track you can place at once, and thus the max size of curves
+
+planned:
+
+1.6.1:
+  updated:
+    more crafting tables (mct)
