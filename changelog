@@ -293,3 +293,5 @@ planned:
 
   updated:
     bbc_recipies 1.0.5 (added more cookies to c:cookies so that they work with the cookie jar)
+    indium
+    sodium (improves performance and ram usage)
