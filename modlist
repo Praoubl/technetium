@@ -18,6 +18,7 @@ Magic:
   - amarite
   - botania
   - hex casting
+  - malum
   - runic enchanting
 
 Worldgen:
@@ -28,6 +29,7 @@ Worldgen:
   - minerally
   - more geodes
   - more fossils
+  - nature's spirit
   - tectonic
   - terralith
   - the bumblezone
@@ -81,6 +83,7 @@ Customization:
   - pehkui
   - scarves
   - simple fog control
+  - technetium origins
 
 Additions:
   - additional additions
@@ -154,10 +157,12 @@ Dependancies:
   - forge config api port
   - fusion (connected textures)
   - geckolib
+  - lodestone
   - midnightlib
   - moonlight lib
   - more axolotl variants api
   - paucal
+  - porting lib
   - puzzles lib
   - resourceful config
   - resourceful lib
