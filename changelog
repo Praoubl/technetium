@@ -287,13 +287,15 @@ planned:
 1.6.2:
   added:
     create: origins
+    lodestone
     malum (dark magic mod)
     nature's spirit (new biomes and blocks)
     nature's delight
-    technetium origins
+    porting lib
+    technetium origins (new origins: automaton, machine spirit, mistcat, and artificial construct)
 
   updated:
     bbc_recipies 1.0.5 (added more cookies to c:cookies so that they work with the cookie jar)
-    distant horizons (optimized and server sided)
+    distant horizons (optimized and server sided, .d only)
     indium
     sodium (improves performance and ram usage)
