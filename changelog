@@ -303,6 +303,7 @@ planned:
 1.6.3:
   updated:
     bbc_recipies 1.0.6 (added pressable tag for filtering)
+    distant horizons
 
   removed: 
     create: less ticking
