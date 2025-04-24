@@ -301,9 +301,14 @@
 planned:
 
 1.6.3:
+  added:
+    create: molten vents fabric port
+    fox friend
+
   updated:
     bbc_recipies 1.0.6 (added pressable tag for filtering)
     distant horizons
+    fabric 0.16.10
 
   removed: 
     create: less ticking
