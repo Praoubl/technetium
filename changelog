@@ -298,8 +298,6 @@
     indium
     sodium (improves performance and ram usage)
 
-planned:
-
 1.6.3:
   added:
     create: molten vents fabric port
@@ -312,3 +310,9 @@ planned:
 
   removed: 
     create: less ticking
+
+
+planned:
+1.6.4:
+  updated:
+    bbc_recipies 1.0.7 (fixed electrum block recipe requiring at least 1 MI ingot)
