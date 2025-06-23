@@ -319,5 +319,5 @@ planned:
     hypercollider?
 
   updated:
-    bbc_recipies 1.0.7 (fixed electrum block recipe requiring at least 1 MI ingot)
+    bbc_recipies 1.0.7 (fixed electrum block recipe requiring at least 1 MI ingot and added recipe to make C&A electrum ingots from MI electrum blocks)
     fox friend 2.6
