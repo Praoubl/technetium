@@ -317,12 +317,14 @@ planned:
   added:
     hypercollider
     sync re-re-ported (action on callback is inconsisent)
-    tectonic 3.0.1
-    terralith 2.5.4
 
   updated:
     bbc_recipies 1.0.7 (fixed electrum block recipe requiring at least 1 MI ingot and added recipe to make C&A electrum ingots from MI electrum blocks)
+    farmer's delight refabricated?
     fox friend 2.8
+    modernfix?
+    tectonic 3.0.1?
+    terralith 2.5.4?
 
   removed:
     treeplacer
