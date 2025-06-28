@@ -315,14 +315,14 @@
 planned:
 1.6.4:
   added:
-    hypercollider
-    sync re-re-ported (action on callback is inconsisent)
+    hypercollider (optimizes collision)
+    sync re-re-ported (have multiple bodies to swap between. caution for some scaled origins: the apply power action on callback is inconsisent)
 
   updated:
     bbc_recipies 1.0.8 (fixed electrum block recipe requiring at least 1 MI ingot, added recipe to make C&A electrum ingots from MI electrum blocks, and added a recipe to reverse craft iron sheet metal)
-    farmer's delight refabricated?
+    farmer's delight refabricated
     fox friend 2.8
-    modernfix?
+    modernfix
 
 
 
