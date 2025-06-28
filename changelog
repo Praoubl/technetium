@@ -315,7 +315,7 @@
 planned:
 1.6.4:
   added:
-    hypercollider (optimizes collision)
+    hypercollider (optimizes collision, fast fluids config setting is off for create compatability)
     sync re-re-ported (have multiple bodies to swap between. caution for some scaled origins: the apply power action on callback is inconsisent)
 
   updated:
