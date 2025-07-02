@@ -311,8 +311,6 @@
   removed: 
     create: less ticking
 
-
-planned:
 1.6.4:
   added:
     hypercollider (optimizes collision, fast fluids config setting is off for create compatability)
@@ -326,7 +324,3 @@ planned:
     modernfix
 
 
-
-
-hexcreating?
-underlay?
