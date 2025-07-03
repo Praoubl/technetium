@@ -324,3 +324,11 @@
     modernfix
 
 
+planned:
+1.6.5:
+  config change:
+    added #mixin.voxel.cache.ArrayBoxList=false
+          #mixin.voxel.fast.ArrayMixin=false
+          mixin.voxel.special.OptimToBlock=false
+          mixin.voxel.special.SpecializeCube=false
+    to the hypercollider config file
