@@ -4,3 +4,6 @@ needs updating:
   fabric language cotlin
   forge config api port
   more fossils
+
+incompatable:
+  fastload
