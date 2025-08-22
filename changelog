@@ -330,7 +330,7 @@ planned:
     betterend/betternether-create recipe compat
 
   updated:
-    sync re-re-ported 5.1
+    sync re-re-ported 5.2
 
   replaced:
     fox friend with tamable foxes (foxes no longer run away after being tamed)
