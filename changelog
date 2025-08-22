@@ -332,6 +332,9 @@ planned:
   updated:
     sync re-re-ported 5.1
 
+  replaced:
+    fox friend with tamable foxes (foxes no longer run away after being tamed)
+
   config change:
     added #mixin.voxel.cache.ArrayBoxList=false
           #mixin.voxel.fast.ArrayMixin=false
