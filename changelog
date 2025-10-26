@@ -334,6 +334,7 @@ planned:
     fzzy config 0.7.3
     nature's delight 1.12
     nature's spirit 2.2.5
+    unchipped 1.1
     sync re-re-ported 5.3
 
   replaced:
@@ -350,3 +351,4 @@ planned:
 
 ?: 
   betterend/betternether-create recipe compat (needs newer fabric)
+  terralith 2.5.4 (messes with datapacks)
