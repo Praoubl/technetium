@@ -12,6 +12,7 @@ Tech:
   - extended drawers
   - modern industrialization
   - plethora peripherals
+  - sync re-re-ported
   - wired redstone
 
 Magic:
@@ -136,6 +137,7 @@ Performance:
   - fast anim
   - fastload
   - ferritecore
+  - hypercollider
   - indium
   - krypton
   - lazydfu
@@ -168,6 +170,7 @@ Dependancies:
   - puzzles lib
   - resourceful config
   - resourceful lib
+  - satin
   - searchables
   - simple trims
   - stacc-api
