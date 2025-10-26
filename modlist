@@ -133,7 +133,6 @@ QOL:
 
 Performance:
   - clumps
-  - create: less ticking
   - enhanced block entities
   - fast anim
   - fastload
