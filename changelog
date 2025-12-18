@@ -324,7 +324,6 @@
     modernfix
 
 
-planned:
 1.6.5:
   added:
     no jet suit render (resource pack)
@@ -347,6 +346,20 @@ planned:
           mixin.voxel.special.SpecializeCube=false
     to the hypercollider config file
 
+
+planned:
+1.7:
+  updated:
+    create: estrogen (5.0.0)
+    create fabric (6.0.8.1)
+    create: new age (1.1.7b)
+    create: origins (1.5.0)
+    create: steam 'n' rails (1.6.14-beta)
+    fabric ()
+    porting lib (2.3.14)
+
+  removed: 
+    create support for open parties and claims (not updated to c6)
 
 
 ?: 
