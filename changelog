@@ -355,7 +355,8 @@ planned:
     create: new age (1.1.7b)
     create: origins (1.5.0)
     create: steam 'n' rails (1.6.14-beta)
-    fabric ()
+    fabric (0.18.3)
+    fabric api (0.92.6)
     porting lib (2.3.14)
 
   removed: 
