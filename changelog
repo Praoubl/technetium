@@ -348,6 +348,13 @@
 
 
 planned:
+
+
+1.6.6:
+  added:
+    extended wrenches
+
+
 1.7:
   updated:
     create: estrogen (5.0.0)
