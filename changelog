@@ -369,6 +369,9 @@ planned:
     fabric api (0.92.6)
     porting lib (2.3.14)
 
+  replaced:
+    create: enchantment industry with create: enchantment industry for create 6?
+
   removed: 
     create support for open parties and claims (not updated to c6)
 
