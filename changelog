@@ -363,6 +363,7 @@ planned:
 
 1.7:
   added:
+    create: nowheel
     extended wrenches
 
   updated:
