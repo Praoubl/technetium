@@ -1,5 +1,6 @@
 Tech:
   - applied energistics 2
+  - cc: androids
   - cc: tweaked
   - cc:c bridge
   - create
@@ -13,6 +14,7 @@ Tech:
   - modern industrialization
   - plethora peripherals
   - sync re-re-ported
+  - vista
   - wired redstone
 
 Magic:
@@ -43,7 +45,7 @@ Decoration:
   - banner bedsheets
   - biome tinted flowers
   - bits and chisels
-  - blahaj
+  - pride blahaj backport
   - bushier flowers
   - chipped
   - create: copycats+
@@ -101,6 +103,7 @@ QOL:
   - ae2 emi crafting integration
   - alternate origin gui
   - amecs
+  - appleskin
   - crawl
   - elytra slot
   - emi addon: extra mod integrations
