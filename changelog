@@ -367,6 +367,11 @@
 planned:
 
 
+1.6.7:
+  updated:
+    plethora peripherals (1.12.0)
+
+
 1.7:
   added:
     create: nowheel
