@@ -27,4 +27,9 @@
     coasters: magnetized
 
   updated:
+    create: aeronautics (1.3.1)
+    create: aeroworks (1.4.2)
+    create: bits 'n' bobs (2.2.5)
     create: coasters simulated (0.1.5)
+    create: lazy tick (2.6.25)
+    sable (2.0.5)
