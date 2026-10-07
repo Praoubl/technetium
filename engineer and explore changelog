@@ -51,3 +51,9 @@ planned:
 1.1.5:
   added:
     create: curcuit board
+
+  updated:
+    chemica (0.7.0)
+
+  replaced:
+    tfmg with tfmg community edition
