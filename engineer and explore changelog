@@ -51,6 +51,8 @@ planned:
 1.1.5:
   added:
     create: curcuit board
+    climbable ropes?
+    deep seas?
 
   updated:
     chemica (0.7.0)
